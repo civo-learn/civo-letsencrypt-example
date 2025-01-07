@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ingress
+description: A Helm chart for the deployment of ingress spec for relax
+type: application
+version: 0.0.5
+appVersion: "1.0"

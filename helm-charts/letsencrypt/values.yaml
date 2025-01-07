@@ -1,0 +1,8 @@
+image:
+  pullPolicy: Always
+  tag: "latest"
+
+acmeEmail: letsecrypt@test.com
+privateKeySecretRef: letsencrypt-prod-key
+acmeServer: https://acme-v02.api.letsencrypt.org/directory
+ingressClass: ingress-nginx
