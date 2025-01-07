@@ -1,4 +1,4 @@
-# Project Name: Civo AI CPU Infra
+# Project Name: CIVO Letsencrypt Example
 
 ## Introduction
 
