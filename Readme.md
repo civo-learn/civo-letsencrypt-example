@@ -26,3 +26,6 @@ Before you begin, ensure you have the following:
     frontend_reserved_ip = "RESERVED IP"
     ```
 
+## Helm Values
+
+Take a look at the Letsencrypt Helm Chart values.yaml. You will need to change these values as required (eg: acmeEmail).
